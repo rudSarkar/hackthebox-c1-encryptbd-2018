@@ -23,7 +23,7 @@ Hints: RAT, Windows
 
 
 ## Challenge 4:
-Go to this website. Find out and exploit the two web application vulnerabilities that are exists on this website.
+Go to this website [here](http://104.129.171.125/). Find out and exploit the two web application vulnerabilities that are exists on this website.
 
 Hints: Wordpress, OWASP Top10
 
